@@ -1,0 +1,25 @@
+[
+  {
+    "ParameterKey": "VpcCIDER",
+    "ParameterValue": "10.0.0.0/16"
+  }, 
+  {
+    "ParameterKey": "PublicSubnet1CIDER",
+    "ParameterValue": "10.0.10.0/24"
+  }
+  , 
+  {
+    "ParameterKey": "PublicSubnet2CIDER",
+    "ParameterValue": "10.0.20.0/24"
+  }
+  , 
+  {
+    "ParameterKey": "PrvSubnet1CIDER",
+    "ParameterValue": "10.0.3.0/24"
+  }
+  , 
+  {
+    "ParameterKey": "PrvSubnet2CIDER",
+    "ParameterValue": "10.0.4.0/24"
+  }
+]
